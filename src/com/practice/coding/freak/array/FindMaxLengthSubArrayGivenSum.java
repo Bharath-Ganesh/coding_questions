@@ -3,15 +3,12 @@ package com.practice.coding.freak.array;
 import java.util.HashMap;
 import java.util.Map;
 
-/*
- * Find maximum length sub-array having given sum
- * 
- * 
- * A[] = { 5, 6, -5, 5, 3, 5, 3, -2, 0 }
-	Sum = 8
+/**
+ * Find maximum length sub-array having given sum. A[] = { 5, 6, -5, 5, 3, 5, 3,
+ * -2, 0 } Sum = 8
  */
 
-public class FindMaxLengthSubArray_6 {
+public class FindMaxLengthSubArrayGivenSum {
 
 	public static void main(String args[]) {
 

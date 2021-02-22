@@ -6,7 +6,7 @@ import java.util.Map;
 /*
  * Find duplicate element in a limited range array
  */
-public class DuplicateElement_5 {
+public class DuplicateElement {
 
 	// Function to find a duplicate element in a limited range array
 	public static int findDuplicate(int[] arr) {
@@ -30,7 +30,6 @@ public class DuplicateElement_5 {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		// input array contains `n` numbers between 1 and `n-1`
 		// with one duplicate, where `n` is the array's length
 		int[] A = { 1, 2, 3, 4, 4 };

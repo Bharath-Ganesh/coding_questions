@@ -7,7 +7,7 @@ public class SampleProgram {
 		if(n<0) {
 			return 0;
 		}else {
-			return arr[n] + sumRecursive(arr,--n);
+			return arr[n] + sumRecursive(arr,n-1);
 		}
 		
 	}

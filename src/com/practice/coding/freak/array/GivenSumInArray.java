@@ -6,7 +6,7 @@ import java.util.Map;
 /*
  * Find pair with given sum in an array
  */
-public class GivenSumInArray_1 {
+public class GivenSumInArray {
 
 	public static void main(String args[]) {
 		extracted();
